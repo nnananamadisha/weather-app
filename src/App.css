@@ -65,3 +65,12 @@ body{
     align-items: center;
     justify-content: center;
 }
+.flex-c{
+    flex-direction: column;
+}
+.location{margin-top: 20px;}
+.location h2{
+    margin: 0;
+    margin-left: 10px;
+    font-weight: 300;
+}
