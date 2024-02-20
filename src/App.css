@@ -74,3 +74,9 @@ body{
     margin-left: 10px;
     font-weight: 300;
 }
+.location h2 span{
+    font-size: 14px;
+}
+.datetext{
+    font-size: 14px;
+}
