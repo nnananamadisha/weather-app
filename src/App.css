@@ -80,3 +80,8 @@ body{
 .datetext{
     font-size: 14px;
 }
+.weatherdesc h3{
+    margin: 0;
+    text-transform: capitalize;
+    font-weight: 400;
+}
