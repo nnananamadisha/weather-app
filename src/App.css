@@ -8,3 +8,12 @@ body{
     padding: 50px;
     font-family:'Poppins',sans-serif;
 }
+
+.app{
+    width: 400px;
+    padding: 25px;
+    color: #e5e5e5;
+    border-radius: 10px;
+    box-shadow: 4px 4px 15px 0px rgba(0,0,0,0.2);
+    background: linear-gradient(108deg,#821ea9,#7c43e0);
+}
